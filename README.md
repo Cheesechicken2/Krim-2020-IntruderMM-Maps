@@ -5,5 +5,5 @@
 #  LICENSE: Attribution-NonCommercial-ShareAlike 4.0 International
 
 <p align="center">
-    Repo which is planned to be the main repo of my maps.
+    Repo which is planned to be the main home of my maps.
 </p>
