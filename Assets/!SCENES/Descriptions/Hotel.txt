@@ -1,0 +1,6 @@
+mapname: Highrise Heist
+desc:[h3] MISSION BRIEFING: [/h3]
+[b]The Crescent Bay Hotel[/b], known for its luxurious accommodations and high-profile guests, has recently become the target of a [b]raid[/b]. What they're looking for is the [b]personal laptop[/b] of a wealthy and influential figure, [b]Viktor Albrecht[/b], a reclusive billionaire rumored to be holding [b]critical intel[/b] related to a series of [b]underground deals[/b] going around. He’s in town for a private business meeting, staying in one of the hotel’s many rooms. We've evacuated everyone on site, and as far as we're aware nobody else should be inside of the building except for you and the intruders.
+map related to 0 bridges...
+
+

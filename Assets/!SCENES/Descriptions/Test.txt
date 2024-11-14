@@ -1,0 +1,4 @@
+mapname: Operation : Descent
+desc:[h1]We've breached the Nexus Hideout perimeter,[/h1] but it’s clear they’ve detected our entry. [b]Intruders are already mobilizing to secure their intel[b/], attempting an extraction with a briefcase. If they get it out, we lose any chance to trace their network. In addition, their operatives are [b]accessing nearby terminals to initiate a complete system wipe[/b]. Every second counts to prevent them from erasing their trail.
+map related to 0 bridges... 
+

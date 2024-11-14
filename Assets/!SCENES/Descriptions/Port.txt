@@ -1,0 +1,6 @@
+mapname: The Port
+desc:The situation at Port Northpoint has gone dire.
+The Intruders have refused to cooperate with our demands, and as a result they've fortified their position and are prepared for any potential confrontation.
+What was once a hub for global trade has now become a hideout for one of the most dangerous gangs. Ardent Pacific, the company overseeing the majority of shipments in the region, has been exposed as a key player in a widespread human trafficking operation. From what we've gathered, they’ve been moving victims across borders for years.
+map related to 0 bridges... 
+
